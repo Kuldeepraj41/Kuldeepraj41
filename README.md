@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kuldeep Singh Rajpurohit  
 
-🎓 Computer Science Student | 💻 Full-Stack Web Developer | 📱 Flutter Developer  
+🎓 Computer Science Student | 💻 Full-Stack Web Developer 
 
 ---
 
